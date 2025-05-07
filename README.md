@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JAIME2003Z&fontSize=90)
 ## Hi there 👋
 
 <!--
