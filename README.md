@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JAIME2003Z&fontSize=90)
-## Hi there 👋
+## 👋 Hey there! Thrilled to see you checking out my GitHub profile. Dive into my projects and let's connect! 😄
 
 <!--
 **Jaime2003z/Jaime2003z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
